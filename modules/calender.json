@@ -1,6 +1,6 @@
 {
 "name":"calender",
-"description":"A calender module for mo_cms",
+"description":"A calender module, with modular fields and an automatic month and year separation",
 "date":"29.12.2015",
 "file":"calender.php",
 "parameters":"year"
